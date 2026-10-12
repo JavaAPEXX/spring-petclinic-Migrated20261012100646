@@ -1,0 +1,7 @@
+{
+  "job_id": "job_102a4ba9858f",
+  "sourceRepoUrl": "https://github.com/spring-projects/spring-petclinic",
+  "targetJavaVersion": "25.0.4",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
